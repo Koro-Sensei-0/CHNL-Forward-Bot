@@ -5,6 +5,7 @@ A Simple Bot To Forward Messages Send to The Bot to Any Channel.
 Add The Bot to Your Desired Channel as Admin and Send Messages to The Bot to Forward It.
 
 ### Deploying on Heroku:
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adithyan1133-ctrl/CHNL-Forward-Bot/tree/main)
 
