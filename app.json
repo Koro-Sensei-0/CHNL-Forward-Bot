@@ -6,8 +6,8 @@
         "torrent",
         "searcher"
     ],
-    "website": "https://github.com/Adithyan1133-ctrl/CHNL-Forward-Bot",
-    "repository": "https://github.com/Adithyan1133-ctrl/CHNL-Forward-Bot",
+    "website": "https://github.com/Koro-Sensei-0/CHNL-Forward-Bot",
+    "repository": "https://github.com/Koro-Sensei-0/CHNL-Forward-Bot",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Bot Token",
